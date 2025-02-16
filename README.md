@@ -38,6 +38,8 @@ Başlangıç Ekranı:
 <img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/StartScene.png" width=300 height=500>
 
 
+
+
 Seviye Görünümleri:
 
 <img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels1.png" width=250 height=450>   <img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels2.png" width=250 height=450>  <img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels3.png" width=250 height=450> <img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/HidedCloth.png" width=200 height=200>   <img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels4.png" width=250 height=450>   
