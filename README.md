@@ -27,3 +27,6 @@ UI tasarımı ve animasyonları konularında kendimi geliştirme fırsatı yakal
 💡 Teşekkürler
 
 Staj süresince her türlü soruma sabırla cevap veren ve kendimi geliştirmemde beni destekleyen Funjitsu ekibine teşekkür ederim. Ayrıca, oyundaki modellemeler için Rinat Sakhbiev'e teşekkürlerimi sunarım. 
+
+
+Proje kodları için benimle iletişime geçebilirsiniz.
