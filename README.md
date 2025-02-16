@@ -29,8 +29,19 @@ UI tasarımı ve animasyonları konularında kendimi geliştirme fırsatı yakal
 Staj süresince her türlü soruma sabırla cevap veren ve kendimi geliştirmemde beni destekleyen Funjitsu ekibine teşekkür ederim. Ayrıca, oyundaki modellemeler için Rinat Sakhbiev'e teşekkürlerimi sunarım. 
 
 ## Oyundan Görseller
+
+Başlangıç Ekranı
+
 <img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/StartScene.png" width=300 height=500>
 
+Seviye Görünümleri 
+<img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels1.png" width=250 height=450>
+
+<img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels2.png" width=250 height=450>
+
+<img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels3.png" width=250 height=450>
+
+<img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels4.png" width=250 height=450>
 
 
 
