@@ -28,5 +28,11 @@ UI tasarımı ve animasyonları konularında kendimi geliştirme fırsatı yakal
 
 Staj süresince her türlü soruma sabırla cevap veren ve kendimi geliştirmemde beni destekleyen Funjitsu ekibine teşekkür ederim. Ayrıca, oyundaki modellemeler için Rinat Sakhbiev'e teşekkürlerimi sunarım. 
 
+## Oyundan Görseller
+<img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/StartScene.png" width=300 height=500>
+
+
+
+
 
 Proje kodları için benimle iletişime geçebilirsiniz.
