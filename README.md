@@ -33,14 +33,12 @@ Staj süresince her türlü soruma sabırla cevap veren ve kendimi geliştirmemd
 
 ## Oyundan Görseller
 
-Başlangıç Ekranı
+Başlangıç Ekranı:
 
 <img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/StartScene.png" width=300 height=500>
 
-Seviye Görünümleri 
+Seviye Görünümleri:
 
-<img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels1.png" width=250 height=450>
-<img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels2.png" width=250 height=450>
-<img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels3.png" width=250 height=450>
-<img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels4.png" width=250 height=450>
+<img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels1.png" width=250 height=450>   <img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels2.png" width=250 height=450>  
+<img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels3.png" width=250 height=450>  <img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels4.png" width=250 height=450>
 
