@@ -1,3 +1,6 @@
+-- Proje kodları için benimle iletişime geçebilirsiniz. --
+
+
 ## 📌 Proje Hakkında
 
 Bu repo, Funjitsu Oyun ve Teknoloji A.Ş. şirketinde yaptığım zorunlu yaz stajım sırasında geliştirmeye başladığım ve sonrasında da geliştirmeye devam ettiğim oyunumu içeriyor.
@@ -35,6 +38,7 @@ Başlangıç Ekranı
 <img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/StartScene.png" width=300 height=500>
 
 Seviye Görünümleri 
+
 <img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels1.png" width=250 height=450>
 
 <img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels2.png" width=250 height=450>
@@ -43,7 +47,3 @@ Seviye Görünümleri
 
 <img src= "https://github.com/siraytarim/Colorful-Clothes-Sort/blob/main/Görseller/Levels4.png" width=250 height=450>
 
-
-
-
-Proje kodları için benimle iletişime geçebilirsiniz.
